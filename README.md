@@ -29,7 +29,7 @@ firebase kullanımını gerçekleştirdim.Gerçekten o kadar hızlı tepki veriy
 
 firebase üzerinden projeyi deploy ederek yayınlaya biliyorsunuz.
 
-##Projeyi buradan görebilirsiniz.
+## Projeyi buradan görebilirsiniz.
 
 *Link: https://todo-app-cp-769ff.web.app/
 
